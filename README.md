@@ -1,5 +1,5 @@
 # Ultraschall-Icons Font (3.0)
-Icons as Font for Ultraschall-Twist Webdesign
+Ultraschall icons as font for Ultraschall-Twist website
 
 [Website](http://ultraschall.fm) | [Demo](http://us-fonticon.wikibyte.org)
 

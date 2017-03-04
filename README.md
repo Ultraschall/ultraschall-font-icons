@@ -3,7 +3,7 @@ Ultraschall icons as font for Ultraschall-Twist website
 
 [Website](http://ultraschall.fm) | [Demo](http://us-fonticon.wikibyte.org)
 
-<img src="https://raw.githubusercontent.com/Ultraschall/US-Font-Icons/master/screen_3.0.png">
+<img src="https://raw.githubusercontent.com/Ultraschall/US-Font-Icons/master/demo/screen_3.0.png">
 
     Font Icon "ultraschall" for new web design "Ultraschall-Twist".
     @fontFamily: ultraschall
@@ -14,12 +14,12 @@ Ultraschall icons as font for Ultraschall-Twist website
     @icon-designer: Ralf Stockmann
   	@font-designer: Michael McCouman Jr.
   	@designerURL: https://wikibyte.org
-    
+
 
 ## Use Ultraschall-Icons Font as a font on your computer
 
-You can use the ttf file as a computer font. Download the <a href="https://github.com/Ultraschall/US-Font-Icons/blob/master/fonts/ultraschall.ttf?raw=true">ultraschall.ttf</a> from the folder "fonts" or click <a href="https://github.com/Ultraschall/US-Font-Icons/blob/master/fonts/ultraschall.ttf?raw=true">here</a>. 
+You can use the ttf file as a computer font. Download the <a href="https://github.com/Ultraschall/US-Font-Icons/blob/master/fonts/ultraschall.ttf?raw=true">ultraschall.ttf</a> from the folder "fonts" or click <a href="https://github.com/Ultraschall/US-Font-Icons/blob/master/fonts/ultraschall.ttf?raw=true">here</a>.
 
 In this overview you can see the key assignment of each icons:
 
-<img src="https://raw.githubusercontent.com/Ultraschall/US-Font-Icons/master/font-shortcuts.png">
+<img src="https://raw.githubusercontent.com/Ultraschall/US-Font-Icons/master/demo/font-shortcuts.png">

@@ -1,4 +1,4 @@
-# Ultraschall-Font-Icons (2.1)
+# Ultraschall-Font-Icons (3.0)
 Font Icons for Ultraschall Twist Web-Design
 
 [Demo](http://us-fonticon.wikibyte.org/)

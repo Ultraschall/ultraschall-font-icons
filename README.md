@@ -3,18 +3,14 @@ Font Icons for Ultraschall Twist Web-Design
 
 [Demo](http://us-fonticon.wikibyte.org/)
 
-<img src="https://raw.githubusercontent.com/Ultraschall/US-Font-Icons/master/screen3.png">
+<img src="https://raw.githubusercontent.com/Ultraschall/US-Font-Icons/master/screen_3.0.png">
 
     Font Icon "ultraschall" for new web design "Ultraschall-Twist".
     @fontFamily: ultraschall
-  	@majorVersion: 2
-  	@minorVersion: 1
   	@description: Ultraschall Icons
-  	@copyright: ultraschall.fm - icons by Ralf Stockmann
-  	@designer: Michael McCouman Jr.
+    @fontId: ultraschall-twist
+  	@version: 3.0
+  	@copyright: MIT / ultraschall.fm
+    @icon-designer: Ralf Stockmann
+  	@font-designer: Michael McCouman Jr.
   	@designerURL: http://wikibyte.org
-  	@version: Version 2.1
-  	@fontId: ultraschall-twist
-  	@psName: ultraschall
-  	@subFamily: Regular
-  	@fullName: ultraschall

@@ -7,11 +7,11 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
    width="32"
    height="32"
    viewBox="0 0 32 32"
    id="svg2"
+   version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="mouse_select.svg">
   <metadata
@@ -40,23 +40,15 @@
      inkscape:window-height="688"
      id="namedview6"
      showgrid="false"
-     inkscape:zoom="9.1235548"
-     inkscape:cx="19.302083"
-     inkscape:cy="6.4479167"
-     inkscape:window-x="19"
-     inkscape:window-y="53"
+     inkscape:zoom="8.1649613"
+     inkscape:cx="19.275279"
+     inkscape:cy="7.2819877"
+     inkscape:window-x="3"
+     inkscape:window-y="2"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg2" />
   <path
      style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 19.579452,4.2996806 6.617188,6.7500004 -0.05469,17.292969 0.609375,0 0.144531,-24.0000007 z m -7.410156,0.00586 -7.3164062,0.042969 0.1445313,24.0000004 0.609375,0 -0.054688,-17.29297 z"
-     id="path4894"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cccccccccccc" />
-  <path
-     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 10.299961,11.66133 1.983111,13.766326 3.162723,-3.4599 2.383473,3.756869 0.704478,0.03351 c 0,0 0.937238,0.01965 1.041514,-0.0467 0.104277,-0.06636 0.300253,-0.785397 0.300253,-0.785397 l 0.229828,-0.661276 -2.5297,-3.63776 4.540073,-0.845112 z"
-     id="path4904"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccczccccc" />
+     d="M 19.580078 4.2988281 L 26.197266 11.048828 L 26.142578 28.341797 L 26.751953 28.341797 L 26.896484 4.3417969 L 19.580078 4.2988281 z M 12.169922 4.3046875 L 4.8535156 4.3476562 L 4.9980469 28.347656 L 5.6074219 28.347656 L 5.5527344 11.054688 L 12.169922 4.3046875 z M 10.300781 11.662109 L 12.283203 25.427734 L 15.792969 21.556641 L 18.132812 25.421875 C 18.606167 25.675966 19.060859 25.708811 19.576172 25.710938 C 19.733553 25.28257 19.863982 24.959719 19.802734 24.4375 L 17.164062 20.712891 L 22.115234 19.78125 L 10.300781 11.662109 z "
+     id="path4894" />
 </svg>

@@ -2,8 +2,8 @@
 
 The ui-hander create a new icon as SVG output about:
 
-      <a href="#" uk-icon="uk-icon: onAir"></a>
+      <a href="#" uk-icon="icon: onAir"></a>
 
 or for a bigger icon:
 
-      <i uk-icon="uk-icon: onAir; ratio: 3"></i>
+      <i uk-icon="icon: onAir; ratio: 3"></i>

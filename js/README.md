@@ -1,9 +1,9 @@
 # UI-Handler for Twist-Design integration
 
-create a new icon as SVG output about:
+The ui-hander create a new icon as SVG output about:
 
-      &alt;i uk-icon="uk-icon: onAir">&alt;/i>
+      <a href="#" uk-icon="uk-icon: onAir"></a>
 
-      or for a big icon:
+or for a bigger icon:
 
-      &alt;i uk-icon="uk-icon: onAir; ratio: 2">&alt;/i>
+      <i uk-icon="uk-icon: onAir; ratio: 3"></i>

@@ -41,6 +41,7 @@
 /*test*/
 /*
 
+<h2>Test: Standard USI-Call</h2>
 <span uk-icon="icon: coffee"></span>
 <span uk-icon="icon: cut"></span>
 <span uk-icon="icon: export"></span>
@@ -59,22 +60,43 @@
 <span uk-icon="icon: newregion"></span>
 <span uk-icon="icon: onAir"></span>
 <span uk-icon="icon: marker"></span>
-<span uk-icon="icon: micro"></span>
-<span uk-icon="icon: mouse_select></span>
-<span uk-icon="icon: mp3"></span>
-<span uk-icon="icon: music"></span>
-<span uk-icon="icon: mute"></span>
-<span uk-icon="icon: newitem"></span>
-<span uk-icon="icon: newregion"></span>
-<span uk-icon="icon: onAir"></span>
 <span uk-icon="icon: ripple_all"></span>
 <span uk-icon="icon: ripple_one"></span>
 <span uk-icon="icon: selection"></span>
-<span uk-icon="icon: tape""></span>
+<span uk-icon="icon: tape"></span>
 <span uk-icon="icon: textlable"></span>
 <span uk-icon="icon: trim"></span>
 <span uk-icon="icon: txt"></span>
 <span uk-icon="icon: unlink"></span>
 <span uk-icon="icon: zoom"></span>
+
+<h2>Test: Ratio USI-Call</h2>
+<span uk-icon="icon: coffee; ratio: 2"></span>
+<span uk-icon="icon: cut; ratio: 2"></span>
+<span uk-icon="icon: export; ratio: 2"></span>
+<span uk-icon="icon: fader; ratio: 2"></span>
+<span uk-icon="icon: folder; ratio: 2"></span>
+<span uk-icon="icon: glue; ratio: 2"></span>
+<span uk-icon="icon: grid; ratio: 2"></span>
+<span uk-icon="icon: idea; ratio: 2"></span>
+<span uk-icon="icon: link; ratio: 2"></span>
+<span uk-icon="icon: micro; ratio: 2"></span>
+<span uk-icon="icon: mouse_select; ratio: 2"></span>
+<span uk-icon="icon: mp3; ratio: 2"></span>
+<span uk-icon="icon: music; ratio: 2"></span>
+<span uk-icon="icon: mute; ratio: 2"></span>
+<span uk-icon="icon: newitem; ratio: 2"></span>
+<span uk-icon="icon: newregion; ratio: 2"></span>
+<span uk-icon="icon: onAir; ratio: 2"></span>
+<span uk-icon="icon: marker; ratio: 2"></span>
+<span uk-icon="icon: ripple_all; ratio: 2"></span>
+<span uk-icon="icon: ripple_one; ratio: 2"></span>
+<span uk-icon="icon: selection; ratio: 2"></span>
+<span uk-icon="icon: tape; ratio: 2"></span>
+<span uk-icon="icon: textlable; ratio: 2"></span>
+<span uk-icon="icon: trim; ratio: 2"></span>
+<span uk-icon="icon: txt; ratio: 2"></span>
+<span uk-icon="icon: unlink; ratio: 2"></span>
+<span uk-icon="icon: zoom; ratio: 2"></span>
 
 */

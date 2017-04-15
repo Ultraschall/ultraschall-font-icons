@@ -9,6 +9,7 @@ Author URI: http://wikibyte.org<br>
 Copyright: Ultraschall Project<br>
 Text Domain: usi<br>
 
+<a href="https://github.com/Ultraschall/US-Font-Icons/raw/master/plugins/usi-fonts.zip">Download: Wordpress Plugin</a>
 
 Beispiel: `[usi icon="ultraschall" color="#f00" size="50"]`
 

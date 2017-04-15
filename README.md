@@ -107,7 +107,7 @@ In this overview you can see the key assignment of each icons:
 | |-usi-fonts (developing)
 | | |-css
 | | |-fonts
-| | |-README.md //plgin and shortcode information
+| | |-README.md //plugin and shortcode information
 | | |-usi.php //plugin runtime
 | |
 | |-usi-fonts.zip //Download WP plugin

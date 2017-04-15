@@ -1,7 +1,7 @@
 # Ultraschall-Icons Font (3.0)
 Ultraschall icons as font for Ultraschall-Twist website
 
-[Website](http://ultraschall.fm) | [Demo](http://us-fonticon.wikibyte.org)
+[Website](http://ultraschall.fm) | [Demo](http://us-fonticon.wikibyte.org) | [Wordpress Plugin](https://github.com/Ultraschall/US-Font-Icons/tree/master/plugins)
 
 <img src="https://raw.githubusercontent.com/Ultraschall/US-Font-Icons/master/demo/screen_3.0.png">
 

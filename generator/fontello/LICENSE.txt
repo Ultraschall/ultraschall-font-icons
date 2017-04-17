@@ -1,0 +1,18 @@
+Font license info
+
+## Ultraschall (USI) Fonts
+
+  Copyright (C) 2017 Design by Ralf Stockmann
+  Copyright (C) 2017 Developing by Michael McCouman Jr.
+
+  Author:    Michael McCouman Jr.
+  License:   MIT
+  Homepage:  http://ultraschall.fm
+
+## Font Awesome
+
+   Copyright (C) 2016 by Dave Gandy
+
+   Author:    Dave Gandy
+   License:   SIL ()
+   Homepage:  http://fortawesome.github.com/Font-Awesome/

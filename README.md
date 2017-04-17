@@ -1,4 +1,4 @@
-# Ultraschall-Icons Font (3.0)
+# Ultraschall-Icons Font (3.1)
 Ultraschall icons as font for Ultraschall-Twist website
 
 [Website](http://ultraschall.fm) | [Demo](http://us-fonticon.wikibyte.org) | [Wordpress Plugin](https://github.com/Ultraschall/US-Font-Icons/tree/master/plugins)
@@ -9,7 +9,7 @@ Ultraschall icons as font for Ultraschall-Twist website
     @fontFamily: ultraschall
   	@description: Ultraschall Icons
     @fontId: ultraschall-twist
-  	@version: 3.0
+  	@version: 3.1
   	@copyright: MIT / http://ultraschall.fm
     @icon-designer: Ralf Stockmann
   	@font-designer: Michael McCouman Jr.
@@ -44,11 +44,11 @@ In this overview you can see the key assignment of each icons:
 |
 |-fonts //Ultraschall icons for website and desktop
 | |-cultraschall.eot
-| |-cultraschall.svg	//svg for uk-js handling 
+| |-cultraschall.svg	//svg for uk-js handling
 | |-cultraschall.ttf	//Desktop icons
 | |-cultraschall.woff
 |
-|-generator	//icon set 
+|-generator	//icon set
 | |-assets //data folders with icons (png, svg, xml)
 | | |-coffee
 | | |-cut

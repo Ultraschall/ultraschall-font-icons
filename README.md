@@ -1,7 +1,7 @@
 # Ultraschall-Icons Font (3.1)
 Ultraschall icons as font for Ultraschall-Twist website
 
-[Website](http://ultraschall.fm) | [Demo](http://us-fonticon.wikibyte.org) | [Wordpress Plugin](https://github.com/Ultraschall/US-Font-Icons/tree/master/plugins)
+[Website](http://ultraschall.fm) | [Demo](http://us-fonticon.wikibyte.org) | [Wordpress Plugin](https://github.com/Ultraschall/US-Font-Icons/tree/master/plugins) | [+Fontello Fonts](https://github.com/Ultraschall/US-Font-Icons/tree/master/generator/fontello)
 
 <img src="https://raw.githubusercontent.com/Ultraschall/US-Font-Icons/master/demo/screen_3.0.png">
 
@@ -50,6 +50,10 @@ In this overview you can see the key assignment of each icons:
 |
 |-generator	//icon set
 | |-assets //data folders with icons (png, svg, xml)
+| | |-studio-link
+| | |-soundboard //dummy icon
+| | |-ultraschall
+| | |-ultraschall-full
 | | |-coffee
 | | |-cut
 | | |-export

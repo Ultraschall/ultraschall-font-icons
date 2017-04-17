@@ -19,12 +19,16 @@
 |
 |-fonts //Ultraschall icons for website and desktop
 | |-cultraschall.eot
-| |-cultraschall.svg	//svg for uk-js handling 
+| |-cultraschall.svg	//svg for uk-js handling
 | |-cultraschall.ttf	//Desktop icons
 | |-cultraschall.woff
 |
-|-generator	//icon set 
+|-generator	//icon set
 | |-assets //data folders with icons (png, svg, xml)
+| | |-studio-link
+| | |-soundboard //dummy icon
+| | |-ultraschall
+| | |-ultraschall-full
 | | |-coffee
 | | |-cut
 | | |-export

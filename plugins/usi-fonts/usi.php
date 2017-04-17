@@ -1,9 +1,9 @@
 <?php
 /*
-Plugin Name: Ultraschall Icons
+Plugin Name: Ultraschall Icons 3.1
 Plugin URI: http://ultraschall.fm
 Description: Create easy shortcode for Ultraschall website
-Version: 1.0.0.2
+Version: 1.0.0.3
 Author: Michael McCouman Junior
 Author URI: http://wikibyte.org
 Copyright: Ultraschall Project
@@ -39,6 +39,8 @@ function usi_fonts($atts = null)
 
 /*
 [usi icon="ultraschall" color="#f00" size="50"]
+[usi icon="soundboard" size="50"] //dummy!
+[usi icon="studio-link" size="50"]
 [usi icon="zoom" size="50"]
 [usi icon="ripple_one" size="50"]
 [usi icon="ripple_all" size="50"]

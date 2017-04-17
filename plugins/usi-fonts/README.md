@@ -1,6 +1,6 @@
 
 
-Plugin Name: Ultraschall Icons<br>
+Plugin Name: Ultraschall Icons 3.1<br>
 Plugin URI: http://ultraschall.fm<br>
 Description: Create easy shortcode for Ultraschall website<br>
 Version: 1.0.0.2<br>
@@ -13,6 +13,8 @@ Text Domain: usi<br>
 Beispiel: `[usi icon="ultraschall" color="#f00" size="50"]`
 
     [usi icon="ultraschall"]
+    [usi icon="soundboard"] //dummy!
+    [usi icon="studio-link"]
     [usi icon="zoom"]
     [usi icon="ripple_one"]
     [usi icon="ripple_all"]

@@ -3,6 +3,7 @@
 	<script src="ie7/ie7.js"></script>
 	<!--<![endif]-->
 */
+
 (function() {
 	function addIcon(el, entity) {
 		var html = el.innerHTML;
@@ -38,6 +39,8 @@
 		'usi-newitem': '&#x6f;',
 		'usi-newregion': '&#x70;',
 		'usi-ultraschall-full': '&#xdf;',
+		'usi-studio-link': '&#x23;',
+		'usi-soundboard': '&#x2b;',
 		'0': 0
 		},
 		els = document.getElementsByTagName('*'),

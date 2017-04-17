@@ -85,4 +85,10 @@
 .usi-ultraschall-full {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xdf;');
 }
+.usi-studio-link {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x23;');
+}
+.usi-soundboard {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x2b;');
+}
 

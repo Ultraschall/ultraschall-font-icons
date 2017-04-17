@@ -3,6 +3,14 @@ Ultraschall icons as font for Ultraschall-Twist website
 
 [Website](http://ultraschall.fm) | [Demo](http://us-fonticon.wikibyte.org) | [Wordpress Plugin](https://github.com/Ultraschall/US-Font-Icons/tree/master/plugins) | [+Fontello Fonts](https://github.com/Ultraschall/US-Font-Icons/tree/master/generator/fontello)
 
+## Functions
+
+- 1. Website: css handler - usi font icons (tandalone)
+- 2. Website: css handler - usi font icons with Fontello
+- 3. Website: js + jquery handler - usi + uki as svg handler
+- 4. Desktop: install font
+- 5. assets: files as - png, svg (inkscape), xml
+
 <img src="https://raw.githubusercontent.com/Ultraschall/US-Font-Icons/master/demo/screen_3.0.png">
 
     Font Icon "ultraschall" for new web design "Ultraschall-Twist".

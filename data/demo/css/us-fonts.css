@@ -1,0 +1,119 @@
+@font-face {
+  font-family: 'ultraschall';
+  src:  url('../fonts/ultraschall.eot?swge8p');
+  src:  url('../fonts/ultraschall.eot?swge8p#iefix') format('embedded-opentype'),
+    url('../fonts/ultraschall.ttf?swge8p') format('truetype'),
+    url('../fonts/ultraschall.woff?swge8p') format('woff'),
+    url('../fonts/ultraschall.svg?swge8p#ultraschall') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="usi-"], [class*=" usi-"] {
+  font-family: 'ultraschall' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.usi-zoom:before {
+  content: "\31";
+}
+.usi-follow:before {
+  content: "\32";
+}
+.usi-ripple_one:before {
+  content: "\33";
+}
+.usi-ripple_all:before {
+  content: "\34";
+}
+.usi-glue:before {
+  content: "\35";
+}
+.usi-marker:before {
+  content: "\36";
+}
+.usi-cut:before {
+  content: "\37";
+}
+.usi-mouse_select:before {
+  content: "\38";
+}
+.usi-selection:before {
+  content: "\39";
+}
+.usi-mute:before {
+  content: "\30";
+}
+.usi-fader:before {
+  content: "\71";
+}
+.usi-ultraschall:before {
+  content: "\b4";
+}
+.usi-ultraschall-full:before {
+  content: "\df";
+}
+.usi-tape:before {
+  content: "\77";
+}
+.usi-trim:before {
+  content: "\65";
+}
+.usi-idea:before {
+  content: "\72";
+}
+.usi-music:before {
+  content: "\61";
+}
+.usi-mic:before {
+  content: "\73";
+}
+.usi-coffee:before {
+  content: "\64";
+}
+.usi-onAir:before {
+  content: "\66";
+}
+.usi-grid:before {
+  content: "\79";
+}
+.usi-export:before {
+  content: "\78";
+}
+.usi-mp3:before {
+  content: "\63";
+}
+.usi-folder:before {
+  content: "\76";
+}
+.usi-link:before {
+  content: "\74";
+}
+.usi-unlink:before {
+  content: "\7a";
+}
+.usi-txtlable:before {
+  content: "\75";
+}
+.usi-txt:before {
+  content: "\69";
+}
+.usi-newitem:before {
+  content: "\6f";
+}
+.usi-newregion:before {
+  content: "\70";
+}
+.usi-studio-link:before {
+  content: "\23";
+}
+.usi-soundboard:before {
+  content: "\2b";
+}

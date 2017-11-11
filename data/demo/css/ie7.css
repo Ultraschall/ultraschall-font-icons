@@ -1,0 +1,97 @@
+.usi-zoom {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x31;');
+}
+.usi-follow {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x32;');
+}
+.usi-ripple_one {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x33;');
+}
+.usi-ripple_all {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x34;');
+}
+.usi-glue {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x35;');
+}
+.usi-marker {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x36;');
+}
+.usi-cut {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x37;');
+}
+.usi-mouse_select {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x38;');
+}
+.usi-selection {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x39;');
+}
+.usi-mute {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x30;');
+}
+.usi-fader {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x71;');
+}
+.usi-ultraschall {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xb4;');
+}
+.usi-ultraschall-full {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xdf;');
+}
+.usi-tape {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x77;');
+}
+.usi-trim {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x65;');
+}
+.usi-idea {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x72;');
+}
+.usi-music {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x61;');
+}
+.usi-mic {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x73;');
+}
+.usi-coffee {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x64;');
+}
+.usi-onAir {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x66;');
+}
+.usi-grid {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x79;');
+}
+.usi-export {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x78;');
+}
+.usi-mp3 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x63;');
+}
+.usi-folder {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x76;');
+}
+.usi-link {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x74;');
+}
+.usi-unlink {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x7a;');
+}
+.usi-txtlable {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x75;');
+}
+.usi-txt {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x69;');
+}
+.usi-newitem {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x6f;');
+}
+.usi-newregion {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x70;');
+}
+.usi-studio-link {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x23;');
+}
+.usi-soundboard {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x2b;');
+}
+

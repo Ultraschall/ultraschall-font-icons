@@ -2,170 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a865dec1-9015-4a40-b6fd-ae461c074663" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/assets/follow/follow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/demo/fonts/ultraschall.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/demo/fonts/ultraschall.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/demo/fonts/ultraschall.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/process/test/uki.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/process/test/usi.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/assets/follow/follow.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/assets/zoom/usi-zoom.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/demo/css/uikit.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/demo/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/demo/js/us-cont.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/demo/js/us-icons.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/process/js/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/process/js/uki.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/process/js/usi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/process/test/jquery-usi_compile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/process/test/test-uki-fonts.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/process/test/test-usi-fonts.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/usi.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/screen_3.0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generator/ToDo.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generator/data/us-icon-setup.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generator/fontello/config.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generator/fontello/css/animation.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generator/fontello/css/fontello-codes.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generator/fontello/css/fontello-embedded.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generator/fontello/css/fontello-ie7-codes.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generator/fontello/css/fontello-ie7.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generator/fontello/css/fontello.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generator/fontello/demo.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generator/fontello/font/fontello.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generator/fontello/font/fontello.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generator/fontello/font/fontello.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generator/fontello/font/fontello.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generator/fontello/font/fontello.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/test/jquery-usi_compile.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/test/test-uki-fonts.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/test/test-usi-fonts.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/test/uki.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/test/usi.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/uki.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/usi.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/usi-fonts/fonts/ultraschall.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/usi-fonts/fonts/ultraschall.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/usi-fonts/fonts/ultraschall.woff" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/ie7.css" afterPath="$PROJECT_DIR$/data/demo/css/ie7.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/ie7.js" afterPath="$PROJECT_DIR$/data/demo/css/ie7.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/font-shortcuts.png" afterPath="$PROJECT_DIR$/data/demo/img/font-shortcuts.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/style.css" afterPath="$PROJECT_DIR$/data/demo/css/us-fonts.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/us-screen.png" afterPath="$PROJECT_DIR$/data/demo/img/us-screen.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/ultraschall.eot" afterPath="$PROJECT_DIR$/_archiv/plugins/usi-fonts/fonts/ultraschall.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/ultraschall.svg" afterPath="$PROJECT_DIR$/_archiv/plugins/usi-fonts/fonts/ultraschall.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/ultraschall.ttf" afterPath="$PROJECT_DIR$/_archiv/plugins/usi-fonts/fonts/ultraschall.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/ultraschall.woff" afterPath="$PROJECT_DIR$/_archiv/plugins/usi-fonts/fonts/ultraschall.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/coffee/coffee.png" afterPath="$PROJECT_DIR$/data/assets/coffee/coffee.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/coffee/coffee.svg" afterPath="$PROJECT_DIR$/data/assets/coffee/coffee.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/coffee/usi-coffee.svg" afterPath="$PROJECT_DIR$/data/assets/coffee/usi-coffee.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/cut/cut.png" afterPath="$PROJECT_DIR$/data/assets/cut/cut.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/cut/cut.svg" afterPath="$PROJECT_DIR$/data/assets/cut/cut.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/cut/usi-cut.svg" afterPath="$PROJECT_DIR$/data/assets/cut/usi-cut.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/export/export.png" afterPath="$PROJECT_DIR$/data/assets/export/export.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/export/export.svg" afterPath="$PROJECT_DIR$/data/assets/export/export.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/export/usi-export.svg" afterPath="$PROJECT_DIR$/data/assets/export/usi-export.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/fader/fader.png" afterPath="$PROJECT_DIR$/data/assets/fader/fader.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/fader/fader.svg" afterPath="$PROJECT_DIR$/data/assets/fader/fader.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/fader/usi-fader.svg" afterPath="$PROJECT_DIR$/data/assets/fader/usi-fader.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/folder/folder.png" afterPath="$PROJECT_DIR$/data/assets/folder/folder.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/folder/folder.svg" afterPath="$PROJECT_DIR$/data/assets/folder/folder.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/folder/usi-folder.svg" afterPath="$PROJECT_DIR$/data/assets/folder/usi-folder.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/glue/glue.png" afterPath="$PROJECT_DIR$/data/assets/glue/glue.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/glue/glue.svg" afterPath="$PROJECT_DIR$/data/assets/glue/glue.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/glue/usi-glue.svg" afterPath="$PROJECT_DIR$/data/assets/glue/usi-glue.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/grid/grid.png" afterPath="$PROJECT_DIR$/data/assets/grid/grid.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/grid/grid.svg" afterPath="$PROJECT_DIR$/data/assets/grid/grid.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/idea/idea.png" afterPath="$PROJECT_DIR$/data/assets/idea/idea.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/idea/idea.svg" afterPath="$PROJECT_DIR$/data/assets/idea/idea.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/link/link.png" afterPath="$PROJECT_DIR$/data/assets/link/link.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/link/link.svg" afterPath="$PROJECT_DIR$/data/assets/link/link.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/link/usi-link.svg" afterPath="$PROJECT_DIR$/data/assets/link/usi-link.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/marker/marker.png" afterPath="$PROJECT_DIR$/data/assets/marker/marker.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/marker/marker.svg" afterPath="$PROJECT_DIR$/data/assets/marker/marker.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/marker/usi-marker.svg" afterPath="$PROJECT_DIR$/data/assets/marker/usi-marker.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/mic/mic.png" afterPath="$PROJECT_DIR$/data/assets/mic/mic.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/mic/mic.svg" afterPath="$PROJECT_DIR$/data/assets/mic/mic.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/mic/usi-mic.svg" afterPath="$PROJECT_DIR$/data/assets/mic/usi-mic.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/mouse_select/mouse_select.svg" afterPath="$PROJECT_DIR$/data/assets/mouse_select/mouse_select.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/mouse_select/toolbar_mouse_select.png" afterPath="$PROJECT_DIR$/data/assets/mouse_select/toolbar_mouse_select.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/mouse_select/usi-mouse_select.svg" afterPath="$PROJECT_DIR$/data/assets/mouse_select/usi-mouse_select.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/mp3/mp3.png" afterPath="$PROJECT_DIR$/data/assets/mp3/mp3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/mp3/mp3.svg" afterPath="$PROJECT_DIR$/data/assets/mp3/mp3.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/mp3/usi-mp3.svg" afterPath="$PROJECT_DIR$/data/assets/mp3/usi-mp3.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/music/music.png" afterPath="$PROJECT_DIR$/data/assets/music/music.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/music/music.svg" afterPath="$PROJECT_DIR$/data/assets/music/music.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/music/usi-music.svg" afterPath="$PROJECT_DIR$/data/assets/music/usi-music.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/mute/mute.png" afterPath="$PROJECT_DIR$/data/assets/mute/mute.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/mute/mute.svg" afterPath="$PROJECT_DIR$/data/assets/mute/mute.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/mute/usi-mute.svg" afterPath="$PROJECT_DIR$/data/assets/mute/usi-mute.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/newitem/newitem.png" afterPath="$PROJECT_DIR$/data/assets/newitem/newitem.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/newitem/newitem.svg" afterPath="$PROJECT_DIR$/data/assets/newitem/newitem.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/newitem/usi-newitem.svg" afterPath="$PROJECT_DIR$/data/assets/newitem/usi-newitem.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/newregion/newregion.png" afterPath="$PROJECT_DIR$/data/assets/newregion/newregion.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/newregion/newregion.svg" afterPath="$PROJECT_DIR$/data/assets/newregion/newregion.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/newregion/usi-newregion.svg" afterPath="$PROJECT_DIR$/data/assets/newregion/usi-newregion.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/onAir/onAir.png" afterPath="$PROJECT_DIR$/data/assets/onAir/onAir.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/onAir/onAir.svg" afterPath="$PROJECT_DIR$/data/assets/onAir/onAir.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/onAir/usi-onAir.svg" afterPath="$PROJECT_DIR$/data/assets/onAir/usi-onAir.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/ripple_all/ripple_all.png" afterPath="$PROJECT_DIR$/data/assets/ripple_all/ripple_all.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/ripple_all/ripple_all.svg" afterPath="$PROJECT_DIR$/data/assets/ripple_all/ripple_all.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/ripple_all/usi-ripple_all.svg" afterPath="$PROJECT_DIR$/data/assets/ripple_all/usi-ripple_all.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/ripple_one/ripple_one.png" afterPath="$PROJECT_DIR$/data/assets/ripple_one/ripple_one.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/ripple_one/ripple_one.svg" afterPath="$PROJECT_DIR$/data/assets/ripple_one/ripple_one.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/ripple_one/usi-ripple_one.svg" afterPath="$PROJECT_DIR$/data/assets/ripple_one/usi-ripple_one.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/selection/selection.png" afterPath="$PROJECT_DIR$/data/assets/selection/selection.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/selection/selection.svg" afterPath="$PROJECT_DIR$/data/assets/selection/selection.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/selection/usi-selection.svg" afterPath="$PROJECT_DIR$/data/assets/selection/usi-selection.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/soundboard/soundboard.jpg" afterPath="$PROJECT_DIR$/data/assets/soundboard/soundboard.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/soundboard/soundboard.svg" afterPath="$PROJECT_DIR$/data/assets/soundboard/soundboard.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/soundboard/usi-soundboard.svg" afterPath="$PROJECT_DIR$/data/assets/soundboard/usi-soundboard.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/studio-link/studio-link.png" afterPath="$PROJECT_DIR$/data/assets/studio-link/studio-link.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/studio-link/studio-link.svg" afterPath="$PROJECT_DIR$/data/assets/studio-link/studio-link.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/studio-link/usi-studio-link.svg" afterPath="$PROJECT_DIR$/data/assets/studio-link/usi-studio-link.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/tape/tape.png" afterPath="$PROJECT_DIR$/data/assets/tape/tape.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/tape/tape.svg" afterPath="$PROJECT_DIR$/data/assets/tape/tape.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/tape/usi-tape.svg" afterPath="$PROJECT_DIR$/data/assets/tape/usi-tape.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/test/test.svg" afterPath="$PROJECT_DIR$/data/assets/test/test.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/textlable/textlable.png" afterPath="$PROJECT_DIR$/data/assets/textlable/textlable.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/textlable/textlable.svg" afterPath="$PROJECT_DIR$/data/assets/textlable/textlable.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/textlable/usi-textlable.svg" afterPath="$PROJECT_DIR$/data/assets/textlable/usi-textlable.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/trim/trim.png" afterPath="$PROJECT_DIR$/data/assets/trim/trim.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/trim/trim.svg" afterPath="$PROJECT_DIR$/data/assets/trim/trim.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/trim/us-trim.svg" afterPath="$PROJECT_DIR$/data/assets/trim/us-trim.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/txt/txt.png" afterPath="$PROJECT_DIR$/data/assets/txt/txt.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/txt/txt.svg" afterPath="$PROJECT_DIR$/data/assets/txt/txt.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/txt/usi-txt.svg" afterPath="$PROJECT_DIR$/data/assets/txt/usi-txt.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/ultraschall-full/ultraschall-full.svg" afterPath="$PROJECT_DIR$/data/assets/ultraschall-full/ultraschall-full.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/ultraschall-full/usi-ultraschall-full.svg" afterPath="$PROJECT_DIR$/data/assets/ultraschall-full/usi-ultraschall-full.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/ultraschall/ultraschall.svg" afterPath="$PROJECT_DIR$/data/assets/ultraschall/ultraschall.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/ultraschall/usi-ultraschall.svg" afterPath="$PROJECT_DIR$/data/assets/ultraschall/usi-ultraschall.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/unlink/unlink.png" afterPath="$PROJECT_DIR$/data/assets/unlink/unlink.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/unlink/unlink.svg" afterPath="$PROJECT_DIR$/data/assets/unlink/unlink.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/unlink/usi-unlink.svg" afterPath="$PROJECT_DIR$/data/assets/unlink/usi-unlink.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/zoom/usi-zoom.svg" afterPath="$PROJECT_DIR$/data/assets/follow/usi-follow.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/zoom/zoom.png" afterPath="$PROJECT_DIR$/data/assets/zoom/zoom.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/assets/zoom/zoom.svg" afterPath="$PROJECT_DIR$/data/assets/zoom/zoom.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/data/selection.json" afterPath="$PROJECT_DIR$/data/process/js/selection.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/fontello/LICENSE" afterPath="$PROJECT_DIR$/fontello/LICENSE" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/fontello/README.md" afterPath="$PROJECT_DIR$/fontello/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/fontello/fontello-download.zip" afterPath="$PROJECT_DIR$/fontello/fontello-download.zip" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/less/style.less" afterPath="$PROJECT_DIR$/data/process/less/style.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/less/variables.less" afterPath="$PROJECT_DIR$/data/process/less/variables.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/generator/psd/ultraschall-font-keys.psd" afterPath="$PROJECT_DIR$/data/psd/ultraschall-font-keys.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/plugins/README.md" afterPath="$PROJECT_DIR$/_archiv/plugins/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/plugins/usi-fonts.zip" afterPath="$PROJECT_DIR$/_archiv/plugins/usi-fonts.zip" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/plugins/usi-fonts/README.md" afterPath="$PROJECT_DIR$/_archiv/plugins/usi-fonts/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/plugins/usi-fonts/css/usi.css" afterPath="$PROJECT_DIR$/_archiv/plugins/usi-fonts/css/usi.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/plugins/usi-fonts/fonts/ultraschall.svg" afterPath="$PROJECT_DIR$/data/demo/fonts/ultraschall.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/plugins/usi-fonts/usi.php" afterPath="$PROJECT_DIR$/_archiv/plugins/usi-fonts/usi.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/json.rar" afterPath="$PROJECT_DIR$/_archiv/projects/json.rar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/projects.rar" afterPath="$PROJECT_DIR$/_archiv/projects/projects.rar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/projects_1491153062959.png" afterPath="$PROJECT_DIR$/_archiv/projects/projects_1491153062959.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/us-icons.rar" afterPath="$PROJECT_DIR$/_archiv/projects/us-icons.rar" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/demo/img/us-screen.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/demo/test.html" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/data/demo/css/uikit.min.css" afterPath="$PROJECT_DIR$/data/demo/css/us-demo.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LICENSE" afterPath="$PROJECT_DIR$/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/demo/index.html" afterPath="$PROJECT_DIR$/data/demo/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fontello/LICENSE" afterPath="$PROJECT_DIR$/fontello/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fontello/README.md" afterPath="$PROJECT_DIR$/fontello/README.md" />
     </list>
     <ignored path="US-Font-Icons.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -190,32 +34,52 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data/demo/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2460">
-              <caret line="164" column="37" selection-start-line="164" selection-start-column="37" selection-end-line="164" selection-end-column="37" />
-              <folding />
+            <state relative-caret-position="1828">
+              <caret line="289" column="12" selection-start-line="289" selection-start-column="12" selection-end-line="289" selection-end-column="12" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/data/demo/test.html">
+      <file leaf-file-name="demo.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fontello/demo.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
-              <folding />
+            <state relative-caret-position="405">
+              <caret line="350" column="34" selection-start-line="350" selection-start-column="34" selection-end-line="350" selection-end-column="34" />
+              <folding>
+                <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/fontello/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="78" selection-start-line="0" selection-start-column="78" selection-end-line="0" selection-end-column="78" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+          <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="font-shortcuts.png" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data/demo/img/font-shortcuts.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="us-screen.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/demo/img/us-screen.png">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
@@ -245,10 +109,14 @@
         <option value="$PROJECT_DIR$/doc/README.md" />
         <option value="$PROJECT_DIR$/data/demo/css/style.css" />
         <option value="$PROJECT_DIR$/data/demo/fonts/ultraschall.svg" />
-        <option value="$PROJECT_DIR$/data/demo/index.html" />
         <option value="$PROJECT_DIR$/data/demo/js/us-cont.js" />
         <option value="$PROJECT_DIR$/data/demo/js/uikit-icons.min.js" />
+        <option value="$PROJECT_DIR$/LICENSE" />
         <option value="$PROJECT_DIR$/data/demo/test.html" />
+        <option value="$PROJECT_DIR$/data/demo/index.html" />
+        <option value="$PROJECT_DIR$/fontello/demo.html" />
+        <option value="$PROJECT_DIR$/fontello/LICENSE" />
+        <option value="$PROJECT_DIR$/fontello/README.md" />
       </list>
     </option>
   </component>
@@ -377,6 +245,50 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="US-Font-Icons" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="US-Font-Icons" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="US-Font-Icons" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="US-Font-Icons" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -434,18 +346,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1510358711632</updated>
-      <workItem from="1510358724721" duration="3018000" />
+      <workItem from="1510358724721" duration="11685000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3018000" />
+    <option name="totallyTimeSpent" value="11685000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="736" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2536349" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2536349" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -758,30 +670,9 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/demo/img/font-shortcuts.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data/demo/img/us-screen.png">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/demo/css/us-fonts.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/demo/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2460">
-          <caret line="164" column="37" selection-start-line="164" selection-start-column="37" selection-end-line="164" selection-end-column="37" />
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/data/demo/js/us-cont.js">
@@ -802,11 +693,114 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/data/demo/css/us-demo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#4706#5059#2" expanded="true" />
+            <element signature="e#6358#6652#2" expanded="true" />
+            <element signature="e#15510#15918#2" expanded="true" />
+            <element signature="e#16105#16513#2" expanded="true" />
+            <element signature="e#17299#17597#2" expanded="true" />
+            <element signature="e#17636#17951#2" expanded="true" />
+            <element signature="e#17996#18312#2" expanded="true" />
+            <element signature="e#18444#18742#2" expanded="true" />
+            <element signature="e#18790#19105#2" expanded="true" />
+            <element signature="e#19159#19475#2" expanded="true" />
+            <element signature="e#40487#40836#2" expanded="true" />
+            <element signature="e#40958#41306#2" expanded="true" />
+            <element signature="e#53439#53881#2" expanded="true" />
+            <element signature="e#53991#54307#2" expanded="true" />
+            <element signature="e#126451#126829#2" expanded="true" />
+            <element signature="e#132037#132359#2" expanded="true" />
+            <element signature="e#155297#155761#2" expanded="true" />
+            <element signature="e#162610#162908#2" expanded="true" />
+            <element signature="e#163535#163850#2" expanded="true" />
+            <element signature="e#164543#164859#2" expanded="true" />
+            <element signature="e#201575#201952#2" expanded="true" />
+            <element signature="e#202876#203252#2" expanded="true" />
+            <element signature="e#257314#257812#2" expanded="true" />
+            <element signature="e#258604#258948#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/demo/css/us-fonts.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/demo/img/font-shortcuts.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/data/demo/test.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+        <state relative-caret-position="265">
+          <caret line="260" column="34" selection-start-line="260" selection-start-column="34" selection-end-line="260" selection-end-column="34" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/demo/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1828">
+          <caret line="289" column="12" selection-start-line="289" selection-start-column="12" selection-end-line="289" selection-end-column="12" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fontello/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fontello/demo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="350" column="34" selection-start-line="350" selection-start-column="34" selection-end-line="350" selection-end-column="34" />
+          <folding>
+            <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fontello/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="78" selection-start-line="0" selection-start-column="78" selection-end-line="0" selection-end-column="78" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

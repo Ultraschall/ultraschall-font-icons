@@ -2,419 +2,247 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Ultraschall Icons 3.1 (demo view)</title>
-
-    <!--
-    Font Icons: "ultraschall 3.1"
-
-    @fontFamily: ultraschall
-  	@majorVersion: 3
-  	@minorVersion: 1
-  	@description: Ultraschall Icons
-  	@copyright: ultraschall.fm - icons by Ralf Stockmann
-
-  	@designer: Michael McCouman Jr.
-  	@designerURL: http://wikibyte.org
-  	@version: Version 3.0.3 / 3.1
-  	@psName: ultraschall
-  	@subFamily: Regular
-    -->
-
-    <link rel="stylesheet" href="css/us-fonts.css">
+    <title>US-Icons 3.1: Demo</title>
+    <link rel="stylesheet" href="./css/us-demo.css">
+    <link rel="stylesheet" href="./css/us-fonts.css">
     <!--[if lt IE 8]><!-->
     <link rel="stylesheet" href="./css/ie7.css">
     <!--<![endif]-->
     <style>
-        body {
-            margin: 0;
-            padding: 0;
-            font-family: arial;
-            background-color: #2b2b2b;
-        }
+        /*div.bg {
+            background: url('./img/bg.png');
+        }*/
 
-        div div.grid p {
-            margin: 0;
-            padding: 25px;
-            font-size: 9px;
-            font-family: arial;
-            color: #aaa;
-        }
-
-        i {
+        div.uk-card i {
+            text-align: center;
+            font-size: 50px;
             margin: 20px;
             padding: 20px;
-            font-size: 40px;
 
-            border: 2px solid #0a0a0a;
+            border: 2px solid #535353;
             border-radius: 10%;
             -webkit-border-radius: 10%;
             -moz-border-radius: 10%;
 
-            background: #272727;
-            color: #989898;
+            background: #eaebe9;
+            color: #000;
 
-            -webkit-box-shadow: inset 1px 1px 14px -6px rgba(0, 0, 0, 0.75);
-            -moz-box-shadow: inset 1px 1px 14px -6px rgba(0, 0, 0, 0.75);
-            box-shadow: inset 1px 1px 14px -6px rgba(0, 0, 0, 0.75);
+            -webkit-box-shadow: inset 1px 1px 14px -2px rgba(167, 167, 167, 0.75);
+            -moz-box-shadow: inset 1px 1px 14px -2px rgba(192, 192, 192, 0.75);
+            box-shadow: inset 1px 1px 14px -2px rgba(192, 192, 192, 0.75);
         }
 
-        i:hover {
-            margin: 20px;
-            padding: 20px;
-            font-size: 40px;
-
-            border: 2px solid #0a0a0a;
-            border-radius: 10%;
-            -webkit-border-radius: 10%;
-            -moz-border-radius: 10%;
-
-            background: #424341;
-            color: #fff;
-
-            -webkit-box-shadow: inset 1px 1px 14px -2px rgba(0, 0, 0, 0.75);
-            -moz-box-shadow: inset 1px 1px 14px -2px rgba(0, 0, 0, 0.75);
-            box-shadow: inset 1px 1px 14px -2px rgba(0, 0, 0, 0.75);
+        div.uk-card p {
+            text-align: center;
         }
 
-        i:active {
-            margin: 20px;
-            padding: 20px;
-            font-size: 40px;
+        div.uk-card i:hover {
+            background: #eaebe9;
+            color: #000;
 
-            border: 2px solid #0a0a0a;
-            border-radius: 10%;
-            -webkit-border-radius: 10%;
-            -moz-border-radius: 10%;
+            -webkit-box-shadow: inset 1px 1px 14px -2px rgba(32, 32, 32, 0.75);
+            -moz-box-shadow: inset 1px 1px 14px -2px rgba(32, 32, 32, 0.75);
+            box-shadow: inset 1px 1px 14px -2px rgba(32, 32, 32, 0.75);
+        }
 
-            background: #272727;
-            color: #ffcc00;
+        div.uk-card i:active {
+            background: #eaebe9;
+            color: #e86a00;
 
             -webkit-box-shadow: inset 4px 9px 17px -3px rgba(0, 0, 0, 0.75);
             -moz-box-shadow: inset 4px 9px 17px -3px rgba(0, 0, 0, 0.75);
             box-shadow: inset 4px 9px 17px -3px rgba(0, 0, 0, 0.75);
         }
-
-        .grid {
-            width: auto;
-            float: left;
-            padding-bottom: 15px;
-        }
-
-        .icon-infobox {
-            margin-top: -600px;
-            position: relative;
-            margin-bottom: 400px;
-        }
-
-        .icon-infos {
-            width: 460px;
-            margin-top: -12px;
-            margin-bottom: 12px;
-            padding: 10px 20px;
-            background: #eee;
-            text-align: left;
-        }
-
-        .us-screen img {
-            width: 100%;
-            opacity: 0.4;
-        }
-
-        .icon-page {
-            margin-top: 52px;
-            margin-bottom: 50px;
-            padding: 12px;
-        }
-
-        .break {
-            clear: both;
-            padding: 35px;
-        }
-
-        .key-infos {
-            margin-top: -12px;
-            background: #eee;
-            padding: 75px 30px 20px 30px;
-        }
-
-        .shortcodes {
-            margin-top: 33px;
-            text-align: center;
-        }
     </style>
+    <script src="js/us-cont.js"></script>
+    <script src="js/us-icons.js"></script>
 </head>
 <body>
 
-<div class="us-screen">
-    <img src="img/us-screen.png">
+
+<div class="uk-height-large uk-background-cover uk-light uk-flex uk-flex-top"
+     style="background-image: url('./img/bg.png');" uk-parallax="blur: 10; sepia: 100;">
+    <div class="uk-text-center uk-margin-auto uk-margin-auto-vertical uk-light"
+         uk-parallax="y: 10,0; viewport: 0.1;">
+        <h1>Ultraschall</h1>
+        <p>Ultraschall Icons 3.1: Demo</p>
+    </div>
 </div>
-<center>
-    <div class="icon-infobox">
-        <div class="icon-infos">
-            <h2>Ultraschall-Icons Font (3.1)</h2>
 
-            <p>
-                @fontFamily: ultraschall<br>
-                @version: 3.1<br>
-                @copyright: ultraschall.fm<br>
-                @license: <a href="https://github.com/Ultraschall/US-Font-Icons/blob/master/LICENSE">MIT</a>
-            </p>
 
-            <p>
-                Ultraschall Icons by <a href="https://twitter.com/rstockm">Ralf Stockmann</a><br>
-                US-Desktop Font & SVG, Demo by <a href="https://twitter.com/McCouman">Michael McCouman Jr.</a>
-                Background Image by ...
-            </p>
+<div class="uk-container">
+    <div class="uk-child-width-1-5@m uk-grid-small uk-grid-match" uk-grid>
+        <!-- v3.0.3 -->
+        <div class="uk-card uk-card-body">
+            <i class="usi-follow"></i>
+            <p>usi-follow</p>
+        </div>
 
-            <ul>
-                <li>Demo: <a href="http://us-fonticon.wikibyte.org/">Live Demo</a></li>
-                <li>Website: <a href="http://ultraschall.fm">ultraschall.fm</a></li>
-                <li>Github: <a href="https://github.com/Ultraschall/US-Font-Icons">Ultraschall-Font-Icons</a></li>
-            </ul>
+        <!-- v3.0.1 -->
+        <div class="uk-card uk-card-body">
+            <i class="usi-studio-link"></i>
+            <p>usi-studio-link</p>
+        </div>
+
+        <div class="uk-card uk-card-body">
+            <i class="usi-soundboard"></i>
+            <p>(dummy)</p>
+        </div>
+
+        <!-- v3.0 -->
+        <div class="uk-card uk-card-body">
+            <i class="usi-mouse_select"></i>
+            <p>usi-mouse_select</p>
+        </div>
+
+        <div class="uk-card uk-card-body">
+            <i class="usi-mp3"></i>
+            <p>usi-mp3</p>
+        </div>
+
+        <div class="uk-card uk-card-body">
+            <i class="usi-onAir"></i>
+            <p>usi-onAir</p>
+        </div>
+
+        <!-- v2.0 -->
+        <div class="uk-card uk-card-body">
+            <i class="usi-txtlable"></i>
+            <p>usi-txtlable</p>
+        </div>
+
+        <div class="uk-card uk-card-body">
+            <i class="usi-newregion"></i>
+            <p>usi-newregion</p>
+        </div>
+
+        <div class="uk-card uk-card-body">
+            <i class="usi-newitem"></i>
+            <p>usi-newitem</p>
+        </div>
+
+        <div class="uk-card uk-card-body">
+            <i class="usi-txt"></i>
+            <p>usi-txt</p>
+        </div>
+
+        <!-- v1.0 -->
+        <div class="uk-card uk-card-body">
+            <i class="usi-unlink"></i>
+            <p>usi-unlink</p>
+        </div>
+
+        <div class="uk-card uk-card-body">
+            <i class="usi-link"></i>
+            <p>usi-link</p>
+        </div>
+
+        <div class="uk-card uk-card-body">
+            <i class="usi-folder"></i>
+            <p>usi-folder</p>
+        </div>
+
+        <div class="uk-card uk-card-body">
+            <i class="usi-export"></i>
+            <p>usi-export</p>
+        </div>
+
+        <div class="uk-card uk-card-body">
+            <i class="usi-grid"></i>
+            <p>usi-grid</p>
+        </div>
+
+        <div class="uk-card uk-card-body">
+            <i class="usi-coffee"></i>
+            <p>usi-coffee</p>
+        </div>
+
+        <div class="uk-card uk-card-body">
+            <i class="usi-mic"></i>
+            <p>usi-mic</p>
+        </div>
+
+        <div class="uk-card uk-card-body">
+            <i class="usi-music"></i>
+            <p>usi-music</p>
+        </div>
+
+        <div class="uk-card uk-card-body">
+            <i class="usi-idea"></i>
+            <p>usi-idea</p>
+        </div>
+
+        <div class="uk-card uk-card-body">
+            <i class="usi-trim"></i>
+            <p>usi-trim</p>
+        </div>
+
+        <div class="uk-card uk-card-body">
+            <i class="usi-tape"></i>
+            <p>usi-tape</p>
+        </div>
+
+        <div class="uk-card uk-card-body">
+            <i class="usi-fader"></i>
+            <p>usi-fader</p>
+        </div>
+
+        <div class="uk-card uk-card-body">
+            <i class="usi-zoom"></i>
+            <p>usi-zoom</p>
+        </div>
+
+        <div class="uk-card uk-card-body">
+            <i class="usi-ripple_one"></i>
+            <p>usi-ripple_one</p>
+        </div>
+
+        <div class="uk-card uk-card-body">
+            <i class="usi-ripple_all"></i>
+            <p>usi-ripple_all</p>
+        </div>
+
+        <div class="uk-card uk-card-body">
+            <i class="usi-marker"></i>
+            <p>usi-marker</p>
+        </div>
+
+        <div class="uk-card uk-card-body">
+            <i class="usi-glue"></i>
+            <p>usi-glue</p>
+        </div>
+
+        <div class="uk-card uk-card-body">
+            <i class="usi-cut"></i>
+            <p>usi-cut</p>
+        </div>
+
+        <div class="uk-card uk-card-body">
+            <i class="usi-selection"></i>
+            <p>usi-selection</p>
+        </div>
+
+        <div class="uk-card uk-card-body">
+            <i class="usi-mute"></i>
+            <p>usi-mute</p>
+        </div>
+
+        <div class="uk-card uk-card-body">
+            <i class="usi-ultraschall"></i>
+            <p>usi-ultraschall</p>
+        </div>
+
+        <div class="uk-card uk-card-body">
+            <i class="usi-ultraschall-full"></i>
+            <p>usi-ultraschall-full</p>
         </div>
     </div>
-</center>
-
-
-<div class="icon-page">
-
-    <!-- v3.0.3 -->
-
-    <div class="grid">
-        <i class="usi-follow"></i>
-
-        <p> usi-follow</p>
-    </div>
-
-    <!-- v3.0.1 -->
-
-    <div class="grid">
-        <i class="usi-studio-link"></i>
-
-        <p> usi-studio-link</p>
-    </div>
-
-    <div class="grid">
-        <i class="usi-soundboard"></i>
-
-        <p> (dummy)</p>
-    </div>
-
-    <!-- v3.0 -->
-
-    <div class="grid">
-        <i class="usi-mouse_select"></i>
-
-        <p> usi-mouse_select</p>
-    </div>
-
-    <div class="grid">
-        <i class="usi-mp3"></i>
-
-        <p> usi-mp3</p>
-    </div>
-
-    <div class="grid">
-        <i class="usi-onAir"></i>
-
-        <p> usi-onAir</p>
-    </div>
-
-
-    <!-- v2.0 -->
-
-    <div class="grid">
-        <i class="usi-txtlable"></i>
-
-        <p> usi-txtlable</p>
-    </div>
-
-
-    <div class="grid">
-        <i class="usi-newregion"></i>
-
-        <p> usi-newregion</p>
-    </div>
-
-
-    <div class="grid">
-        <i class="usi-newitem"></i>
-
-        <p> usi-newitem</p>
-    </div>
-
-
-    <div class="grid">
-        <i class="usi-txt"></i>
-
-        <p> usi-txt</p>
-    </div>
-
-
-    <!-- v1.0 -->
-
-    <div class="grid">
-        <i class="usi-unlink"></i>
-
-        <p> usi-unlink</p>
-    </div>
-
-
-    <div class="grid">
-        <i class="usi-link"></i>
-
-        <p> usi-link</p>
-    </div>
-
-
-    <div class="grid">
-        <i class="usi-folder"></i>
-
-        <p> usi-folder</p>
-    </div>
-
-
-    <div class="grid">
-        <i class="usi-export"></i>
-
-        <p> usi-export</p>
-    </div>
-
-
-    <div class="grid">
-        <i class="usi-grid"></i>
-
-        <p> usi-grid</p>
-    </div>
-
-
-    <div class="grid">
-        <i class="usi-coffee"></i>
-
-        <p> usi-coffee</p>
-    </div>
-
-
-    <div class="grid">
-        <i class="usi-mic"></i>
-
-        <p> usi-mic</p>
-    </div>
-
-
-    <div class="grid">
-        <i class="usi-music"></i>
-
-        <p> usi-music</p>
-    </div>
-
-
-    <div class="grid">
-        <i class="usi-idea"></i>
-
-        <p> usi-idea</p>
-    </div>
-
-
-    <div class="grid">
-        <i class="usi-trim"></i>
-
-        <p> usi-trim</p>
-    </div>
-
-
-    <div class="grid">
-        <i class="usi-tape"></i>
-
-        <p> usi-tape</p>
-    </div>
-
-
-    <div class="grid">
-        <i class="usi-fader"></i>
-
-        <p> usi-fader</p>
-    </div>
-
-
-    <div class="grid">
-        <i class="usi-zoom"></i>
-
-        <p> usi-zoom</p>
-    </div>
-
-
-    <div class="grid">
-        <i class="usi-ripple_one"></i>
-
-        <p> usi-ripple_one</p>
-    </div>
-
-
-    <div class="grid">
-        <i class="usi-ripple_all"></i>
-
-        <p> usi-ripple_all</p>
-    </div>
-
-
-    <div class="grid">
-        <i class="usi-marker"></i>
-
-        <p> usi-marker</p>
-    </div>
-
-
-    <div class="grid">
-        <i class="usi-glue"></i>
-
-        <p> usi-glue</p>
-    </div>
-
-
-    <div class="grid">
-        <i class="usi-cut"></i>
-
-        <p> usi-cut</p>
-    </div>
-
-
-    <div class="grid">
-        <i class="usi-selection"></i>
-
-        <p>usi-selection</p>
-    </div>
-
-
-    <div class="grid">
-        <i class="usi-mute"></i>
-
-        <p>usi-mute</p>
-    </div>
-
-
-    <div class="grid">
-        <i class="usi-ultraschall"></i>
-
-        <p>usi-ultraschall</p>
-    </div>
-
-
-    <div class="grid">
-        <i class="usi-ultraschall-full"></i>
-
-        <p>usi-ultraschall-full</p>
-    </div>
-
-    <!--end-->
 </div>
 
 
-<div class="break"></div>
-
-<center>
-    <div class="key-infos">
-        <h2>Use Ultraschall-Icons as a font on your computer</h2>
+<div class="uk-container">
+    <div class="uk-card uk-card-body">
+        <h2 class="uk-text-center">Use Ultraschall-Icons as a font on your computer</h2>
         <p>
             You can use the ttf file as a computer font. Download the <a
                 href="https://github.com/Ultraschall/US-Font-Icons/blob/master/data/fonts/ultraschall.ttf?raw=true">ultraschall.ttf</a>
@@ -423,11 +251,55 @@
             <br>
             In this overview you can see the key assignment of each icons:
         </p>
-        <div class="shortcodes">
-            <img src="img/font-shortcuts.png">
+    </div>
+    <div class="uk-height-large uk-background-cover uk-overflow-hidden uk-light uk-flex uk-flex-top"
+         style="background-image: url('./img/font-shortcuts.png');">
+    </div>
+</div>
+
+
+<div class="uk-container uk-margin">
+    <div class="uk-child-width-1-3@m uk-grid-small uk-grid-match" uk-grid>
+        <div>
+            <div class="uk-card uk-card-default uk-card-body">
+                <h3 class="uk-card-title">License Data</h3>
+                <ul>
+                    <li>font family: ultraschall</li>
+                    <li>version: 3.1</li>
+                    <li>copyright: ultraschall.fm</li>
+                    <li>license: <a href="https://github.com/Ultraschall/US-Font-Icons/blob/master/LICENSE">MIT</a></li>
+                </ul>
+            </div>
+        </div>
+        <div>
+            <div class="uk-card uk-card-primary uk-card-body">
+                <h3 class="uk-card-title">Infos</h3>
+                <ul>
+                    <li>Ultraschall Icons by <a href="https://twitter.com/rstockm">Ralf Stockmann</a></li>
+                    <li>US-Desktop Font & SVG, Demo by <a href="https://twitter.com/McCouman">Michael McCouman Jr.</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div>
+            <div class="uk-card uk-card-secondary uk-card-body">
+                <h3 class="uk-card-title">Links</h3>
+                <ul>
+                    <li>Demo: <a href="http://us-fonticon.wikibyte.org/">Live Demo</a></li>
+                    <li>Website: <a href="http://ultraschall.fm">ultraschall.fm</a></li>
+                    <li>Github: <a href="https://github.com/Ultraschall/US-Font-Icons">Ultraschall-Font-Icons</a></li>
+                </ul>
+            </div>
         </div>
     </div>
-</center>
+</div>
+
+
+<div class="uk-container">
+    <div class="uk-padding">
+        Copyright (c) 2015 - 2018 <a href="http://ultraschall.fm">Ultraschall.fm</a> 3.1
+    </div>
+</div>
 
 </body>
 </html>

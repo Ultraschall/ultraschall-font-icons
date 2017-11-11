@@ -1,4 +1,4 @@
-[Download](https://raw.githubusercontent.com/Ultraschall/US-Font-Icons/master/generator/fontello/fontello-download.zip)
+[Download](https://raw.githubusercontent.com/Ultraschall/US-Font-Icons/master/fontello/fontello-download.zip)
 
 ================================================================================
 Please, note, that you should obey original font licenses, used to make this

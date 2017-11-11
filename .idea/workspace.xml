@@ -2,14 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a865dec1-9015-4a40-b6fd-ae461c074663" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/demo/img/us-screen.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/demo/test.html" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/data/demo/css/uikit.min.css" afterPath="$PROJECT_DIR$/data/demo/css/us-demo.css" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_archiv/plugins/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_archiv/plugins/usi-fonts.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_archiv/plugins/usi-fonts/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_archiv/plugins/usi-fonts/css/usi.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_archiv/plugins/usi-fonts/fonts/ultraschall.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_archiv/plugins/usi-fonts/fonts/ultraschall.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_archiv/plugins/usi-fonts/fonts/ultraschall.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_archiv/plugins/usi-fonts/fonts/ultraschall.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_archiv/plugins/usi-fonts/usi.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_archiv/projects/json.rar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_archiv/projects/projects.rar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_archiv/projects/projects_1491153062959.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_archiv/projects/us-icons.rar" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LICENSE" afterPath="$PROJECT_DIR$/LICENSE" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/demo/index.html" afterPath="$PROJECT_DIR$/data/demo/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fontello/LICENSE" afterPath="$PROJECT_DIR$/fontello/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fontello/README.md" afterPath="$PROJECT_DIR$/fontello/README.md" />
     </list>
     <ignored path="US-Font-Icons.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,49 +38,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/data/demo/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1828">
-              <caret line="289" column="12" selection-start-line="289" selection-start-column="12" selection-end-line="289" selection-end-column="12" />
+            <state relative-caret-position="388">
+              <caret line="299" column="84" selection-start-line="299" selection-start-column="84" selection-end-line="299" selection-end-column="84" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="demo.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fontello/demo.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="350" column="34" selection-start-line="350" selection-start-column="34" selection-end-line="350" selection-end-column="34" />
-              <folding>
-                <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/fontello/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="78" selection-start-line="0" selection-start-column="78" selection-end-line="0" selection-end-column="78" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-          <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
             </state>
           </provider>
         </entry>
@@ -113,10 +86,10 @@
         <option value="$PROJECT_DIR$/data/demo/js/uikit-icons.min.js" />
         <option value="$PROJECT_DIR$/LICENSE" />
         <option value="$PROJECT_DIR$/data/demo/test.html" />
-        <option value="$PROJECT_DIR$/data/demo/index.html" />
         <option value="$PROJECT_DIR$/fontello/demo.html" />
         <option value="$PROJECT_DIR$/fontello/LICENSE" />
         <option value="$PROJECT_DIR$/fontello/README.md" />
+        <option value="$PROJECT_DIR$/data/demo/index.html" />
       </list>
     </option>
   </component>
@@ -346,12 +319,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1510358711632</updated>
-      <workItem from="1510358724721" duration="11685000" />
+      <workItem from="1510358724721" duration="12023000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11685000" />
+    <option name="totallyTimeSpent" value="12023000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="736" extended-state="6" />
@@ -698,30 +671,30 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#4706#5059#2" expanded="true" />
-            <element signature="e#6358#6652#2" expanded="true" />
-            <element signature="e#15510#15918#2" expanded="true" />
-            <element signature="e#16105#16513#2" expanded="true" />
-            <element signature="e#17299#17597#2" expanded="true" />
-            <element signature="e#17636#17951#2" expanded="true" />
-            <element signature="e#17996#18312#2" expanded="true" />
-            <element signature="e#18444#18742#2" expanded="true" />
-            <element signature="e#18790#19105#2" expanded="true" />
-            <element signature="e#19159#19475#2" expanded="true" />
-            <element signature="e#40487#40836#2" expanded="true" />
-            <element signature="e#40958#41306#2" expanded="true" />
-            <element signature="e#53439#53881#2" expanded="true" />
-            <element signature="e#53991#54307#2" expanded="true" />
-            <element signature="e#126451#126829#2" expanded="true" />
-            <element signature="e#132037#132359#2" expanded="true" />
-            <element signature="e#155297#155761#2" expanded="true" />
-            <element signature="e#162610#162908#2" expanded="true" />
-            <element signature="e#163535#163850#2" expanded="true" />
-            <element signature="e#164543#164859#2" expanded="true" />
-            <element signature="e#201575#201952#2" expanded="true" />
-            <element signature="e#202876#203252#2" expanded="true" />
-            <element signature="e#257314#257812#2" expanded="true" />
-            <element signature="e#258604#258948#2" expanded="true" />
+            <element signature="e#4706#5059#2" expanded="false" />
+            <element signature="e#6358#6652#2" expanded="false" />
+            <element signature="e#15510#15918#2" expanded="false" />
+            <element signature="e#16105#16513#2" expanded="false" />
+            <element signature="e#17299#17597#2" expanded="false" />
+            <element signature="e#17636#17951#2" expanded="false" />
+            <element signature="e#17996#18312#2" expanded="false" />
+            <element signature="e#18444#18742#2" expanded="false" />
+            <element signature="e#18790#19105#2" expanded="false" />
+            <element signature="e#19159#19475#2" expanded="false" />
+            <element signature="e#40487#40836#2" expanded="false" />
+            <element signature="e#40958#41306#2" expanded="false" />
+            <element signature="e#53439#53881#2" expanded="false" />
+            <element signature="e#53991#54307#2" expanded="false" />
+            <element signature="e#126451#126829#2" expanded="false" />
+            <element signature="e#132037#132359#2" expanded="false" />
+            <element signature="e#155297#155761#2" expanded="false" />
+            <element signature="e#162610#162908#2" expanded="false" />
+            <element signature="e#163535#163850#2" expanded="false" />
+            <element signature="e#164543#164859#2" expanded="false" />
+            <element signature="e#201575#201952#2" expanded="false" />
+            <element signature="e#202876#203252#2" expanded="false" />
+            <element signature="e#257314#257812#2" expanded="false" />
+            <element signature="e#258604#258948#2" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -755,32 +728,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/demo/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1828">
-          <caret line="289" column="12" selection-start-line="289" selection-start-column="12" selection-end-line="289" selection-end-column="12" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/fontello/LICENSE">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fontello/demo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="350" column="34" selection-start-line="350" selection-start-column="34" selection-end-line="350" selection-end-column="34" />
-          <folding>
-            <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -801,6 +753,27 @@
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fontello/demo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="350" column="34" selection-start-line="350" selection-start-column="34" selection-end-line="350" selection-end-column="34" />
+          <folding>
+            <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/demo/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="299" column="84" selection-start-line="299" selection-start-column="84" selection-end-line="299" selection-end-column="84" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

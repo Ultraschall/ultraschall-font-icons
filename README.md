@@ -23,7 +23,7 @@
 
 ## Ultraschall Font font your computer
 
-You can use the ttf file as a computer font. Download the <a href="https://github.com/Ultraschall/US-Font-Icons/blob/master/fonts/ultraschall.ttf?raw=true">ultraschall.ttf</a> from the folder "fonts" or click <a href="https://github.com/Ultraschall/US-Font-Icons/blob/master/fonts/ultraschall.ttf?raw=true">here</a>.
+You can use the <code>ttf</code> file as a computer font. Download the <a href="https://github.com/Ultraschall/US-Font-Icons/blob/master/data/demo/fonts/ultraschall.ttf?raw=true">ultraschall.ttf</a> from the folder <code>"/data/demo/fonts"</code> or click <a href="https://github.com/Ultraschall/US-Font-Icons/blob/master/data/demo/fonts/ultraschall.ttf?raw=true">here</a>.
 
 In this overview you can see the key assignment of each icons:
 

@@ -1,6 +1,6 @@
 # Ultraschall-Icons Font (3.1)
 
-[Website](http://ultraschall.fm) | [Demo](http://us-fonticon.wikibyte.org) | [+Fontello Fonts](https://github.com/Ultraschall/US-Font-Icons/tree/master/fontello)
+[Website](http://ultraschall.fm) | [Demo](http://us-fonticon.wikibyte.org) | [+Fontello Fonts](https://github.com/Ultraschall/US-Font-Icons/blob/master/fontello/fontello-download.zip?raw=true)
 
 ## Package
 

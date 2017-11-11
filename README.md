@@ -9,15 +9,18 @@ Ultraschall icons as font for Ultraschall-Twist website
 - Desktop: install font
 - data/assets: original files as: png, svg, xml
 
-    Font Icon "ultraschall" for new web design "Ultraschall-Twist".
-    @fontFamily: ultraschall
-  	@description: Ultraschall Icons
-    @fontId: ultraschall-twist
-  	@version: 3.1
-  	@copyright: MIT / http://ultraschall.fm
-    @icon-designer: Ralf Stockmann
-  	@font-designer: Michael McCouman Jr.
-  	@designerURL: https://wikibyte.org
+<pre>
+    Font Icon "ultraschall" 3.1
+
+    @font family: ultraschall
+    @description: Ultraschall Icons
+    @version: 3.1
+
+    @copyright: MIT
+    @link http://ultraschall.fm
+    @icon designer: Ralf Stockmann
+    @font designer: Michael McCouman Jr.
+</pre>
 
 ## Use Ultraschall-Icons Font as a font on your computer
 

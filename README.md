@@ -1,16 +1,13 @@
 # Ultraschall-Icons Font (3.1)
 Ultraschall icons as font for Ultraschall-Twist website
 
-[Website](http://ultraschall.fm) | [Demo](http://us-fonticon.wikibyte.org) | Wordpress Plugin (obsolet!) | [+Fontello Fonts](https://github.com/Ultraschall/US-Font-Icons/tree/master/generator/fontello)
+[Website](http://ultraschall.fm) | [Demo](http://us-fonticon.wikibyte.org) | [+Fontello Fonts](https://github.com/Ultraschall/US-Font-Icons/tree/master/fontello)
 
 ## Functions
 
-- 1. Website: css handler - usi font icons (standalone)
-- 2. Website: css handler - usi font icons with Fontello
-- 4. Desktop: install font
-- 5. assets: files as - png, svg, xml
-
-<img src="https://raw.githubusercontent.com/Ultraschall/US-Font-Icons/master/demo/screen_3.0.png">
+- Website: css handler - usi font icons with Fontello
+- Desktop: install font
+- data/assets: original files as: png, svg, xml
 
     Font Icon "ultraschall" for new web design "Ultraschall-Twist".
     @fontFamily: ultraschall
